@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.q-head {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
